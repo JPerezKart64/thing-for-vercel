@@ -5,7 +5,7 @@ import "./index.scss"
 
 const Layout = () => {
     return <div className="App">
-            <img src={literallyMe} className="myself"  alt="image"/>
+            <img src={literallyMe} className="myself" alt="thing"/>
         <Sidebar />
         <div className="Page">
             <Outlet />
