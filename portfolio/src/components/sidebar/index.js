@@ -1,5 +1,6 @@
 import {NavLink} from 'react-router-dom'
 import './index.scss'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
     faDiscord, 
     faGithub,
